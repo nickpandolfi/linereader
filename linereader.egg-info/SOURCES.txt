@@ -1,0 +1,10 @@
+setup.py
+linereader/__init__.py
+linereader/c_reader.py
+linereader/d_reader.py
+linereader/lrcompiler.py
+linereader/lrtools.py
+linereader.egg-info/PKG-INFO
+linereader.egg-info/SOURCES.txt
+linereader.egg-info/dependency_links.txt
+linereader.egg-info/top_level.txt
